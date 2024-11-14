@@ -40,31 +40,6 @@ be shown to the customer.
 the pay button consider the transaction done and mark the seat sold. 
 12.   Once the seat is sold, send out an email to the customer with the flight itinerary.
 
-## Interface
-
-#### Home Pages
-<p align="middle">
-   <img src="../master/Images/main.png" width="400"/>
-   <img src="../master/Images/main2.png" width="400"/>
-</p>
-
-#### Login Page and Book Flight
-<p align="middle">
-   <img src="../master/Images/login.png" width="400"/>
-   <img src="../master/Images/book.png" width="400"/>
-</p>
-
-#### Current Bookings and Itinerary
-<p align="middle">
-   <img src="../master/Images/current.png" width="400"/>
-   <img src="../master/Images/itenary.png" width="400"/>
-</p>
-
-#### Seat Features and Approval
-<p align="middle">
-   <img src="../master/Images/features.png" width="400"/>
-   <img src="../master/Images/approve.png" width="400"/>
-</p>
 
 
 
